@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # About me
 
 ## Hi, I am Wendy White and I live in Runcorn Cheshire
