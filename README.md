@@ -14,7 +14,6 @@
 5. I am now excited to bring an analytical mindset, creativity and dedication to a data driven team whilst continuing to grow as a data analyst.
 
 
-<img width="1518" height="471" alt="three Screenshot of a dog in different positions" src="https://github.com/user-attachments/assets/5c36b77f-939c-4317-bff1-48c2391b1cc5" />
 
 
 
