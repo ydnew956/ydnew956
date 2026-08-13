@@ -1,4 +1,4 @@
-<img width="1518" height="471" alt="Screenshot 2026-08-13 114147" src="https://github.com/user-attachments/assets/18c538f9-330c-47c1-9e3e-af82310ea91b" />
+<img width="1518" height="471" alt="banner " src="https://github.com/user-attachments/assets/18c538f9-330c-47c1-9e3e-af82310ea91b" />
 
 
 
@@ -14,7 +14,7 @@
 5. I am now excited to bring an analytical mindset, creativity and dedication to a data driven team whilst continuing to grow as a data analyst.
 
 
-<img width="1518" height="471" alt="Screenshot 2026-08-13 124917" src="https://github.com/user-attachments/assets/5c36b77f-939c-4317-bff1-48c2391b1cc5" />
+<img width="1518" height="471" alt="three Screenshot of a dog in different positions" src="https://github.com/user-attachments/assets/5c36b77f-939c-4317-bff1-48c2391b1cc5" />
 
 
 
