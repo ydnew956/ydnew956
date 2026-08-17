@@ -13,6 +13,10 @@
 4. I am an avid photographer, with work published in my local newspaper, and I am also an enthusiastic dog trainer. I have a digital arts degree with honours and graduated in 2006 from Liverpool John Moores University (LJMU).
 5. I am now excited to bring an analytical mindset, creativity and dedication to a data driven team whilst continuing to grow as a data analyst.
 
+ <img width="1240" height="157" alt="Screenshot 2026-08-17 144218" src="https://github.com/user-attachments/assets/ac259db2-12ce-417b-adb5-ff0d0377466f" />
+
+
+
 
 
 
