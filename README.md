@@ -7,7 +7,7 @@
 # About me
 
 ## Hi, I am Wendy White and I live in Runcorn Cheshire
-1. I am currently completing an intense data technician bootcamp course with Leap that will build strong practical skills in Excel, SQL, Python, Cloud computing, Azure, Power BI, and Tableau.
+1. I am currently completing an intense data technician bootcamp course with Just IT that will build strong practical skills in Excel, SQL, Python, Cloud computing, Azure, Power BI, and Tableau.
 2. I have previous experience within the NHS, training groups, presenting, and demonstrating CPR which helps me feel competent communicating ideas. I have a background in multimedia design and can deliver detailed, dependable, and focused work.
 3. I have worked on a helpdesk and successfully troubleshooted to resolve customer queries within a challenging customer service centre. So, I am known for staying calm under pressure.
 4. I am an avid photographer, with work published in my local newspaper, and I am also an enthusiastic dog trainer. I have a digital arts degree with honours and graduated in 2006 from Liverpool John Moores University (LJMU).
