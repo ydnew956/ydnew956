@@ -14,7 +14,10 @@
 4. I am an avid photographer, with work published in my local newspaper, and I am also an enthusiastic dog trainer. As well as a HND in multimedia, I have a digital arts degree with honours and graduated in 2006 from Liverpool John Moores University (LJMU) which involved interactive, interface and website design.
 5. I am now excited to bring an analytical mindset, creativity and dedication to a data driven team whilst continuing to grow as a data analyst.
 
- <img width="1240" height="157" alt="logo banner of my skills in Excel, SQL, Python, Cloud computing, Azure, Power BI, and Tableau." src="https://github.com/user-attachments/assets/ac259db2-12ce-417b-adb5-ff0d0377466f" />
+
+
+ <img width="1149" height="124" alt="logo banner of my skills in Excel, SQL, Python, Cloud computing, Azure, Power BI, and Tableau." src="https://github.com/user-attachments/assets/6ed30dc4-1863-4576-a6c4-cbac51fe7194" />
+
 
 
 
