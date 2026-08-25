@@ -11,13 +11,13 @@
 Junior Data Analyst blending analytical thinking with a creative digital‑arts degree. I bring strong communication skills shaped through NHS training and customer‑facing technical support roles, and I love transforming messy datasets into meaningful stories. 
 
 ## What I Do
-Clean and organise complex datasets
+- Clean and organise complex datasets
 
-Build dashboards that make insights click
+- Build dashboards that make insights click
 
-Turn raw numbers into clear narratives
+- Turn raw numbers into clear narratives
 
-Solve problems with curiosity and creativity 
+- Solve problems with curiosity and creativity 
 
 ## Tech Stack
 Excel • SQL • Python • Azure • Power BI • Tableau  
