@@ -26,9 +26,7 @@ Junior Data Analyst blending analytical thinking with a creative digital‑arts 
 [![Excel](https://img.shields.io/badge/Excel-00A651?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/ydnew956/1.-My-Excel-repository)
 
 
-
-
-Excel • SQL • Python • Azure • Power BI • Tableau  
+Excel • SQL • Python • Power BI • Tableau  
 Tools that help me explore, shape, and visualise data with clarity and impact. 
 
 
