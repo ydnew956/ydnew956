@@ -49,7 +49,7 @@ Explore my projects, dashboards, and visualisations — or reach out if you’d 
 
 ## About the Author
 Created by Wendy White — blending data analysis with creative tech design.  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/wendywhite) or explore my [Portfolio](https://sites.google.com/view/wendywhiteportfolio/home).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/wendy-white-a6baa6428/) or explore my [Portfolio](https://sites.google.com/view/wendywhiteportfolio/home).
 
 
 
