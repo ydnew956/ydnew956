@@ -17,12 +17,13 @@ Junior Data Analyst blending analytical thinking with a creative digital‑arts 
 
 ## 🎨 Creative‑Tech Stack
 
-![Excel](https://img.shields.io/badge/Excel-00A651?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-FFC000?style=for-the-badge&logo=power-bi&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-4E79A7?style=for-the-badge&logo=tableau&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-6A5ACD?style=for-the-badge&logo=database&logoColor=white)
+[![Excel](https://img.shields.io/badge/Excel-00A651?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/ydnew956/Excel)
+[![Power BI](https://img.shields.io/badge/Power%20BI-FFC000?style=for-the-badge&logo=power-bi&logoColor=black)](https://github.com/ydnew956/PowerBI)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/ydnew956/Azure)
+[![Tableau](https://img.shields.io/badge/Tableau-4E79A7?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/ydnew956/Tableau)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ydnew956/Python)
+[![SQL](https://img.shields.io/badge/SQL-6A5ACD?style=for-the-badge&logo=database&logoColor=white)](https://github.com/ydnew956/SQL)
+
 
 
 Excel • SQL • Python • Azure • Power BI • Tableau  
