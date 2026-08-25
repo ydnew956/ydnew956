@@ -2,10 +2,6 @@
 <img width="1518" height="409" alt="Screenshot 2026-08-21 140138" src="https://github.com/user-attachments/assets/1549cb8d-a28c-452b-801e-d0a3376cfa7b" />
 
 
-
-
-
-
 ## Wendy White — Creative Tech Data Analyst
 ## About Me
 Junior Data Analyst blending analytical thinking with a creative digital‑arts degree. I bring strong communication skills shaped through NHS training and customer‑facing technical support roles, and I love transforming messy datasets into meaningful stories. 
@@ -19,7 +15,16 @@ Junior Data Analyst blending analytical thinking with a creative digital‑arts 
 
 - Solve problems with curiosity and creativity 
 
-## Tech Stack
+## 🎨 Creative‑Tech Stack
+
+![Excel](https://img.shields.io/badge/Excel-00A651?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-FFC000?style=for-the-badge&logo=power-bi&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-4E79A7?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-6A5ACD?style=for-the-badge&logo=database&logoColor=white)
+
+
 Excel • SQL • Python • Azure • Power BI • Tableau  
 Tools that help me explore, shape, and visualise data with clarity and impact. 
 
@@ -39,6 +44,9 @@ Explore my projects, dashboards, and visualisations — or reach out if you’d 
 
 
 
+## About the Author
+Created by Wendy White — blending data analysis with creative tech design.  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/wendywhite) or explore my [Portfolio](https://sites.google.com/view/wendywhiteportfolio/home).
 
 
 
