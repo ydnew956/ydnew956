@@ -1,5 +1,6 @@
 
 <img width="1518" height="409" alt="Screenshot 2026-08-21 140138" src="https://github.com/user-attachments/assets/1549cb8d-a28c-452b-801e-d0a3376cfa7b" />
+ <img width="1149" height="124" alt="logo banner of my skills in Excel, SQL, Python, Cloud computing, Azure, Power BI, and Tableau." src="https://github.com/user-attachments/assets/6ed30dc4-1863-4576-a6c4-cbac51fe7194" />
 
 
 ## Wendy White — Creative Tech Data Analyst
@@ -42,7 +43,7 @@ Explore my projects, dashboards, and visualisations — or reach out if you’d 
 
 
 
- <img width="1149" height="124" alt="logo banner of my skills in Excel, SQL, Python, Cloud computing, Azure, Power BI, and Tableau." src="https://github.com/user-attachments/assets/6ed30dc4-1863-4576-a6c4-cbac51fe7194" />
+
 
 
 
