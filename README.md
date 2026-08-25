@@ -17,12 +17,13 @@ Junior Data Analyst blending analytical thinking with a creative digital‑arts 
 
 ## 🎨 Creative‑Tech Stack
 
-[![Excel](https://img.shields.io/badge/Excel-00A651?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/ydnew956/Excel)
-[![Power BI](https://img.shields.io/badge/Power%20BI-FFC000?style=for-the-badge&logo=power-bi&logoColor=black)](https://github.com/ydnew956/PowerBI)
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/ydnew956/Azure)
-[![Tableau](https://img.shields.io/badge/Tableau-4E79A7?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/ydnew956/Tableau)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ydnew956/Python)
-[![SQL](https://img.shields.io/badge/SQL-6A5ACD?style=for-the-badge&logo=database&logoColor=white)](https://github.com/ydnew956/SQL)
+[![Python Basics](https://img.shields.io/badge/Python%20Basics-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ydnew956/5.-PYTHON-BASICS-Repository)
+[![Python Pandas](https://img.shields.io/badge/Python%20Pandas-1E88E5?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/ydnew956/6.-PYTHON-PANDAS-Repository)
+[![SQL](https://img.shields.io/badge/SQL-6A5ACD?style=for-the-badge&logo=database&logoColor=white)](https://github.com/ydnew956/4.-SQL-repository)
+[![Power BI](https://img.shields.io/badge/Power%20BI-FFC000?style=for-the-badge&logo=power-bi&logoColor=black)](https://github.com/ydnew956/3.-Power-BI-repository)
+[![Tableau](https://img.shields.io/badge/Tableau-4E79A7?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/ydnew956/2.-Tableau-Repository)
+[![Excel](https://img.shields.io/badge/Excel-00A651?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/ydnew956/1.-My-Excel-repository)
+
 
 
 
