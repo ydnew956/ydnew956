@@ -8,7 +8,7 @@
 
 ## Wendy White — Creative Tech Data Analyst
 ## About Me
-Hi, I’m Louise — a Junior Data Analyst blending analytical thinking with a creative digital‑arts background. I bring strong communication skills shaped through NHS training and customer‑facing technical support roles, and I love transforming messy datasets into meaningful stories. 
+Junior Data Analyst blending analytical thinking with a creative digital‑arts degree. I bring strong communication skills shaped through NHS training and customer‑facing technical support roles, and I love transforming messy datasets into meaningful stories. 
 
 ## What I Do
 Clean and organise complex datasets
