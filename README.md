@@ -16,7 +16,7 @@ Junior Data Analyst blending analytical thinking with a creative digital‑arts 
 
 - Solve problems with curiosity and creativity 
 
-## 🎨 Creative‑Tech Stack
+## Creative‑Tech Stack
 
 [![Python Basics](https://img.shields.io/badge/Python%20Basics-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ydnew956/5.-PYTHON-BASICS-Repository)
 [![Python Pandas](https://img.shields.io/badge/Python%20Pandas-1E88E5?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/ydnew956/6.-PYTHON-PANDAS-Repository)
@@ -38,12 +38,6 @@ I merge data with design thinking — making dashboards intuitive, insights acce
 
 ## Let’s Connect
 Explore my projects, dashboards, and visualisations — or reach out if you’d like to collaborate.
-
-
-
-
-
-
 
 ## About the Author
 Created by Wendy White — blending data analysis with creative tech design.  
