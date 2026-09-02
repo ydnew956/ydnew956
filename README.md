@@ -6,7 +6,7 @@
 ## Wendy White — Creative Tech Data Analyst
 ## About Me
 Junior Data Analyst blending analytical thinking with a creative digital‑arts degree. I bring strong communication skills shaped through NHS training and customer‑facing technical support roles, and I love transforming messy datasets into meaningful stories. <br> <br>
-Connect with me on [LinkedIn](https://www.linkedin.com/in/wendy-white-a6baa6428/) or explore my [Portfolio](https://sites.google.com/view/wendywhiteportfolio/home).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/wendy-white-a6baa6428/) or explore my [Google Portfolio](https://sites.google.com/view/wendywhiteportfolio/home).
 
 ## What I Do
 - Clean and organise complex datasets
